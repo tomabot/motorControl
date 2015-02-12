@@ -1,0 +1,3 @@
+
+motorControl_v5.py is a python script for sending commands over a socket to the Cell-CT FPGA. 
+
